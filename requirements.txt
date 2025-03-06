@@ -21,3 +21,4 @@ pykeops==2.1.2
 kaleido
 pot
 wandb
+plotly
